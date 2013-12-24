@@ -1,0 +1,4 @@
+awsome-store-data
+=================
+
+awsome
